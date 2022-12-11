@@ -16,3 +16,5 @@ A web app that shows the launches in SpaceX History.
 [Click here](#) to get started.
 
 ## Future Enhancements
+- Animations when selecting a card.
+- Render other launch data.
